@@ -3,15 +3,60 @@
 
 - 🔭 Actualmente trabajo en [Ecommerce](https://github.com/kratus66/Ecommerce-FullStack.git)
 
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/diego-alejandro-herrera-d%c3%adaz-09768b1a7/details/skills/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diego-alejandro-herrera-d%c3%adaz-09768b1a7/details/skills/" height="30" width="40" /></a>
+<## 🛒 Proyecto Fullstack E-commerce
+
+Este es un proyecto **fullstack** que incluye un backend en **Node.js con Express y TypeORM** y un frontend desarrollado en **Next.js con Tailwind CSS**. Es una plataforma de e-commerce que permite a los usuarios explorar productos, registrarse, iniciar sesión y realizar compras. El backend está asegurado con JWT, integra Swagger para la documentación, y utiliza PostgreSQL como base de datos.
+
+---
+
+## 🖼️ Vista Previa del Proyecto
+
+<p align="center">
+  <img src="https://via.placeholder.com/200x120" alt="Home" style="margin-right: 10px;" />
+  <img src="https://via.placeholder.com/200x120" alt="Productos" style="margin-right: 10px;" />
+  <img src="https://via.placeholder.com/200x120" alt="Carrito" />
 </p>
 
-<h3 align="left">Idiomas y herramientas:</h3>
-<p align="left"> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" ancho="40" alto="40"/> </a> <a href="https://expressjs.com" objetivo="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" ancho="40" alto="40"/> </a> <a href="https://www.figma.com/" objetivo="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" ancho="40" altura="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jazmín" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/es-ES/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.SVG" alt="javascript" ancho="40" alto="40"/> </a> <a href="https://jestjs.io" objetivo="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" ancho="40" alto="40"/> </a> <a href="https://www.mongodb.com/" objetivo="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" ancho="40" alto="40"/> </a> <a href="https://nestjs.com/" objetivo="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" ancho="40" alto="40"/> </a> <a href="https://nextjs.org/" destino="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" ancho="40" alto="40"/> </a> <a href="https://nodejs.org" destino="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" ancho="40" altura="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" altura="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="cartero" width="40" altura="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" ancho="40" alto="40"/> </a> <a href="https://reactnative.dev/" objetivo="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.SVG" alt="reactnative" ancho="40" alto="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" ancho="40" alto="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" ancho="40" alto="40"/> </a> </p>
+> *(Reemplaza los links con tus URLs reales o rutas locales a imágenes)*
 
-<p><img align="izquierda" src="https://github-readme-stats.vercel.app/api/top-langs?username=kratus66&show_icons=true&locale=es&layout=compact" alt="kratus66" /></p>
+---
 
-<p> <img align="centro" src="https://github-readme-stats.vercel.app/api?username=kratus66&show_icons=true&locale=es" alt="kratus66" /></p>
+## ⚙️ Instalación de dependencias
+
+Clona el repositorio y luego instala las dependencias para el frontend y backend:
+
+```bash
+# Clonar el repositorio
+git clone https://github.com/tu-usuario/tu-repo.git
+cd tu-repo
+
+# Instalar dependencias del backend
+cd back
+npm install
+
+# Instalar dependencias del frontend
+cd ../front
+npm install
+```
+
+---
+
+## 🚀 Cómo ejecutar en local
+
+### Backend
+
+```bash
+cd back
+# Asegúrate de tener configurado un archivo .env con tu base de datos PostgreSQL
+npm run start
+```
+
+### Frontend
+
+```bash
+cd front
+npm run dev
+```
+
+El frontend correrá por defecto en [http://localhost:3000](http://localhost:3000) y el backend en [http://localhost:3001](http://localhost:3001) (o según tu configuración).
 
